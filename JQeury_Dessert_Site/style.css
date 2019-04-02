@@ -1,0 +1,149 @@
+/*use    !important   after color tag and before semi-colon to override css*/
+
+div,
+page,
+a {
+    margin: auto;
+    font-family: 'Quicksand', sans-serif;
+    background-color: antiquewhite;
+}
+
+#page1,
+#page2,
+#page3,
+#page4,
+#page5 {
+    background-color: antiquewhite;
+    text-align: center;
+
+}
+
+#headerText,
+h1 {
+    background-color: lightslategrey;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    color: white;
+    font-size: 1.3em;
+    text-align: center;
+
+}
+
+span,
+a,
+i {
+    font-size: 1.3em;
+    padding-bottom: 10px;
+    text-align: center;
+    margin: auto;
+}
+
+i {
+    padding-right: 25px;
+    padding-top: 15px;
+    color: steelblue;
+
+}
+
+
+fieldcontain,
+.ui-content,
+textinput-6 {
+    margin: auto;
+    width: 50%;
+    color: darkslategray;
+}
+
+.ui-content, #inputBox {
+    width: 420px;
+}
+
+
+/*Subscribe button*/
+#submit-6 {
+    text-align: center;
+    margin: auto;
+    margin-bottom: 15px;
+}
+
+#firstPhoto,
+#secondPhoto,
+#thirdPhoto,
+#fourthPhoto,
+#fifthPhoto {
+    padding-top: 15px;
+    width: 335px;
+}
+
+.ui-content,
+h4 {
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+}
+
+p {
+    padding-left: 15%;
+    padding-right: 15%;
+    font-size: .9em;
+}
+
+/*Subscribe button
+fieldcontain, label {
+    padding-top: 3px;
+    color: darkslategray;
+    width: 55px;    
+}*/
+
+#submit-6 {
+    width: 125px;
+    margin-top: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: azure;
+    color: darkslategrey;
+
+}
+
+
+#clickRecipe .ui-btn {
+    width: 125px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: azure;
+    color: darkslategrey;
+}
+
+h4 {
+    color: darkslategrey;
+    font-weight: bold;
+}
+
+h5 {
+    background-color: whitesmoke;
+    width: 25%;
+    margin: auto;
+    padding: 5px;
+}
+
+h6 {
+    padding: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: white;
+    background-color: lightslategrey;
+}
+
+hr {
+    border: 2px solid darkslategrey;
+    border-radius: 5px;
+    width: 35%;
+}
+
+.socialMtags,
+i {
+    font-size: 1.1em;
+
+}
